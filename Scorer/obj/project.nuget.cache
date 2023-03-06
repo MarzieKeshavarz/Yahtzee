@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkMCNRUC4DfLV4YINl3yDt8JtZimshhzRGSsOxU25ww6FVFpI6x43naqzt+oc/aRrIXa+WmRbbGo2vwFGu5aKg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Gearset\\csharp\\csharp\\Scorer\\Scorer\\Scorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
